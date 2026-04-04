@@ -27,7 +27,6 @@ A self-organizing, AI-maintained translation knowledge base that replaces tradit
 ### Community
 
 - [Supervertaler Forum](https://github.com/orgs/Supervertaler/discussions) &mdash; the main community hub for questions, ideas, and discussion
-- [Mailing List](https://groups.io/g/Supervertaler) &mdash; email-based discussion on Groups.io
 - [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-Workbench/issues) (Workbench) / [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-for-Trados/issues) (Trados)
 
 ### Website

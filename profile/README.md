@@ -20,7 +20,7 @@ A Trados Studio 2024 plugin that brings TermLens inline terminology, AI Assistan
 
 A self-organizing, AI-maintained translation knowledge base that replaces traditional translation memories and term bases with a living wiki. Built on interlinked Markdown files, SuperMemory gives the AI full contextual understanding of your clients, terminology decisions, domain conventions, and style preferences. Inspired by Andrej Karpathy's LLM knowledge base architecture.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://supervertaler.gitbook.io/trados/supermemory)
+- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://supervertaler.gitbook.io/trados/features/supermemory)
 
 ---
 

@@ -12,9 +12,15 @@ A free, open-source standalone AI translation workbench with multi-LLM support (
 
 ### Supervertaler for Trados
 
-A Trados Studio 2024 plugin that brings TermLens inline terminology, AI Assistant, and Batch Translate directly into the Trados editor. MultiTerm support included.
+A Trados Studio 2024 plugin that brings TermLens inline terminology, AI Assistant, Batch Translate, and SuperMemory directly into the Trados editor. MultiTerm support included.
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://supervertaler.gitbook.io/trados)
+
+### SuperMemory
+
+A self-organizing, AI-maintained translation knowledge base that replaces traditional translation memories and term bases with a living wiki. Built on interlinked Markdown files, SuperMemory gives the AI full contextual understanding of your clients, terminology decisions, domain conventions, and style preferences. Inspired by Andrej Karpathy's LLM knowledge base architecture.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://supervertaler.gitbook.io/trados/supermemory)
 
 ---
 

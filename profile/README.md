@@ -22,6 +22,12 @@ A self-organizing, AI-maintained translation knowledge base that replaces tradit
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://supervertaler.gitbook.io/trados/features/supermemory)
 
+### Help &amp; Documentation
+
+The unified help site for both Workbench and Trados is published at [supervertaler.gitbook.io/help](https://supervertaler.gitbook.io/help). The source Markdown lives in [Supervertaler-Help](https://github.com/Supervertaler/Supervertaler-Help) &ndash; PRs and typo fixes welcome.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-Help) &middot; [Help site](https://supervertaler.gitbook.io/help)
+
 ---
 
 ### Community

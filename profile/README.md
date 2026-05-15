@@ -2,7 +2,7 @@
 
 **AI-Enhanced Translation Tools for Professionals**
 
-Supervertaler is professional translation software built by [Michael Beijer](https://michaelbeijer.co.uk/), a Dutch-English patent and technical translator. It comes in two flavours:
+Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator. It comes in two flavours:
 
 ### Supervertaler Workbench
 

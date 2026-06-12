@@ -26,7 +26,7 @@ A self-organizing, AI-maintained translation knowledge base that replaces tradit
 
 The unified help site for both Workbench and Trados is published at [https://docs.supervertaler.com/trados/](https://docs.supervertaler.com/trados/).
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-Help) &middot; [Help site](https://supervertaler.gitbook.io/help)
+- [Help site](https://docs.supervertaler.com/trados/)
 
 ---
 

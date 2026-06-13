@@ -6,33 +6,33 @@ Supervertaler is professional translation software built by [Michael Beijer](htt
 
 ### Supervertaler Workbench
 
-A free, open-source standalone AI translation workbench with multi-LLM support (GPT-4, Claude, Gemini, Ollama), translation memory, terminology management, and Okapi file filters. Works alongside memoQ, Trados, and CafeTran.
+A free, open-source standalone AI translation workbench with multi-LLM support (OpenAI, Claude, Gemini, and local models via Ollama), translation memory, terminology management, and Okapi file filters. Works alongside memoQ, Trados, and CafeTran.
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-Workbench) &middot; [Download](https://supervertaler.com/workbench/)
 
 ### Supervertaler for Trados
 
-A Trados Studio 2024 plugin that brings TermLens inline terminology, AI Assistant, Batch Translate, and SuperMemory directly into the Trados editor. MultiTerm support included.
+A Trados Studio plugin (Studio 2024, with a Studio 2026 beta) that brings TermLens inline terminology, AI Assistant, Batch Translate, and SuperMemory directly into the Trados editor. MultiTerm support included.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://supervertaler.gitbook.io/trados)
+- [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://docs.supervertaler.com/trados/)
 
 ### SuperMemory
 
 A self-organizing, AI-maintained translation knowledge base that replaces traditional translation memories and term bases with a living wiki. Built on interlinked Markdown files, SuperMemory gives the AI full contextual understanding of your clients, terminology decisions, domain conventions, and style preferences. Inspired by Andrej Karpathy's LLM knowledge base architecture.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://supervertaler.gitbook.io/trados/features/supermemory)
+- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://docs.supervertaler.com/trados/ai-assistant/super-memory/)
 
 ### Help &amp; Documentation
 
-The unified help site for both Workbench and Trados is published at [https://docs.supervertaler.com/trados/](https://docs.supervertaler.com/trados/).
+The unified help site for both Workbench and Trados is published at [docs.supervertaler.com](https://docs.supervertaler.com/).
 
-- [Help site](https://docs.supervertaler.com/trados/)
+- [Help site](https://docs.supervertaler.com/)
 
 ---
 
 ### Community
 
-- [Supervertaler Forum](https://github.com/orgs/Supervertaler/discussions) &mdash; the main community hub for questions, ideas, and discussion
+- [GitHub Discussions](https://github.com/orgs/Supervertaler/discussions) &ndash; the main community hub for questions, ideas, and discussion
 - [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-Workbench/issues) (Workbench) / [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-for-Trados/issues) (Trados)
 
 ### Website

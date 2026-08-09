@@ -12,15 +12,17 @@ A free, open-source standalone AI translation workbench with multi-LLM support (
 
 ### Supervertaler for Trados
 
-A Trados Studio plugin (Studio 2024, with a Studio 2026 beta) that brings TermLens inline terminology, AI Assistant, Batch Translate, and SuperMemory directly into the Trados editor. MultiTerm support included.
+A Trados Studio plugin (Studio 2024, with a Studio 2026 beta) that brings TermLens inline terminology, AI Assistant, Batch Translate, SuperMemory, and an MCP server for Claude Desktop directly into the Trados editor. MultiTerm support included.
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://docs.supervertaler.com/trados/)
 
-### SuperMemory
+#### SuperMemory
 
-A self-organizing, AI-maintained translation knowledge base that replaces traditional translation memories and term bases with a living wiki. Built on interlinked Markdown files, SuperMemory gives the AI full contextual understanding of your clients, terminology decisions, domain conventions, and style preferences. Inspired by Andrej Karpathy's LLM knowledge base architecture.
+Part of the Trados plugin. A place to write down the things about a client that you cannot look up: which term they insist on, what they rejected last time, how they want things phrased. Each memory bank is three Markdown files you edit yourself &ndash; a brief, a terminology table, and style rules &ndash; plus a shared bank of house defaults that any client bank can override. The AI reads the active bank on every translation, and a bank stays small enough to read start to finish, which is what makes a wrong entry findable.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-SuperMemory) &middot; [Documentation](https://docs.supervertaler.com/trados/ai-assistant/super-memory/)
+It complements your termbases and translation memories rather than replacing them: they hold the terms and the wordings, SuperMemory holds the reasoning.
+
+- [Documentation](https://docs.supervertaler.com/trados/ai-assistant/super-memory/)
 
 ### Help &amp; Documentation
 

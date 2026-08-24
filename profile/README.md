@@ -1,20 +1,16 @@
 # Supervertaler
 
-**AI-Enhanced Translation Tools for Professionals**
+**AI translation, terminology and search, inside Trados Studio**
 
-Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator. It comes in two flavours:
-
-### Supervertaler Workbench
-
-A free, open-source standalone AI translation workbench with multi-LLM support (OpenAI, Claude, Gemini, and local models via Ollama), translation memory, terminology management, and Okapi file filters. Works alongside memoQ, Trados, and CafeTran.
-
-- [Repository](https://github.com/Supervertaler/Supervertaler-Workbench) &middot; [Download](https://supervertaler.com/workbench/)
+Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator.
 
 ### Supervertaler for Trados
 
-A Trados Studio plugin (Studio 2024, with a Studio 2026 beta) that brings TermLens inline terminology, AI Assistant, Batch Translate, SuperMemory, and an MCP server for Claude Desktop directly into the Trados editor. MultiTerm support included.
+A Trados Studio plugin (Studio 2024 and 2026) that brings TermLens inline terminology, an AI Assistant, Batch Translate and AI Proofreader, SuperSearch cross-file search and replace, SuperMemory, and an MCP server for Claude Desktop directly into the Trados editor. MultiTerm `.sdltb` support included.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://docs.supervertaler.com/trados/)
+Source-available, single paid plan, 14-day free trial &ndash; no credit card, no sign-up.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-for-Trados) &middot; [Documentation](https://docs.supervertaler.com/trados/) &middot; [Install from the RWS AppStore](https://appstore.rws.com/plugin/432) &middot; [supervertaler.com](https://supervertaler.com)
 
 #### SuperMemory
 
@@ -24,18 +20,30 @@ It complements your termbases and translation memories rather than replacing the
 
 - [Documentation](https://docs.supervertaler.com/trados/ai-assistant/super-memory/)
 
+#### MCP Server
+
+Ships with the plugin. It connects Claude Desktop, and any other MCP client, to the Trados Studio session you have open &ndash; so an AI assistant can read your active project, search your TMs and termbases, run QA checks, and write segments back.
+
+- [Documentation](https://docs.supervertaler.com/trados/mcp-server/)
+
 ### Help &amp; Documentation
 
-The unified help site for both Workbench and Trados is published at [docs.supervertaler.com](https://docs.supervertaler.com/).
-
-- [Help site](https://docs.supervertaler.com/)
+Published at [docs.supervertaler.com](https://docs.supervertaler.com/), and machine-readable for AI agents at [/llms.txt](https://docs.supervertaler.com/llms.txt).
 
 ---
 
 ### Community
 
 - [GitHub Discussions](https://github.com/orgs/Supervertaler/discussions) &ndash; the main community hub for questions, ideas, and discussion
-- [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-Workbench/issues) (Workbench) / [Bug reports & feature requests](https://github.com/Supervertaler/Supervertaler-for-Trados/issues) (Trados)
+- [Bug reports &amp; feature requests](https://github.com/Supervertaler/Supervertaler-for-Trados/issues)
+
+### Supervertaler Workbench
+
+A free, open-source standalone CAT tool: editor, AI translation, terminology and translation memory in one place, plus tools that work system-wide in any application &ndash; a clipboard manager, SuperLookup, QuickTrans, and voice dictation.
+
+**No longer actively developed.** It still works and the source is still open, but it is not receiving new features. Its documentation stays online in full.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-Workbench) &middot; [Documentation](https://docs.supervertaler.com/workbench/) &middot; [PyPI](https://pypi.org/project/Supervertaler/)
 
 ### Website
 

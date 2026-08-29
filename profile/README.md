@@ -1,6 +1,6 @@
 # Supervertaler
 
-**AI translation, terminology and search, inside Trados Studio**
+**AI translation, terminology and search &ndash; inside Trados Studio, and across the rest of Windows**
 
 Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator.
 
@@ -26,6 +26,18 @@ Ships with the plugin. It connects Claude Desktop, and any other MCP client, to 
 
 - [Documentation](https://docs.supervertaler.com/trados/mcp-server/)
 
+### Supervertaler Sidekick
+
+The system-wide toolbox. The one Supervertaler tool that does not live inside a CAT tool: press a key anywhere in Windows and act on whatever is selected, in any application &ndash; a CAT editor, a browser, a PDF, an email.
+
+A clipboard manager with searchable history, a snippet library, text expansion and autocorrect, translation through several MT engines and LLMs at once with the results side by side, terminology and web searches, text conversions, and AI prompts over the selection.
+
+Built in AutoHotkey v2. Windows only, no runtime, no install step.
+
+**In early development.** The repository is public and the tool runs, but there is no release yet.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-Sidekick)
+
 ### Help &amp; Documentation
 
 Published at [docs.supervertaler.com](https://docs.supervertaler.com/), and machine-readable for AI agents at [/llms.txt](https://docs.supervertaler.com/llms.txt).
@@ -42,6 +54,8 @@ Published at [docs.supervertaler.com](https://docs.supervertaler.com/), and mach
 A free, open-source standalone CAT tool: editor, AI translation, terminology and translation memory in one place, plus tools that work system-wide in any application &ndash; a clipboard manager, SuperLookup, QuickTrans, and voice dictation.
 
 **No longer actively developed.** It still works and the source is still open, but it is not receiving new features. Its documentation stays online in full.
+
+Its system-wide tools &ndash; the clipboard manager and QuickTrans &ndash; live on in [Supervertaler Sidekick](https://github.com/Supervertaler/Supervertaler-Sidekick).
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-Workbench) &middot; [Documentation](https://docs.supervertaler.com/workbench/) &middot; [PyPI](https://pypi.org/project/Supervertaler/)
 

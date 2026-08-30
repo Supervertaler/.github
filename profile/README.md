@@ -1,6 +1,6 @@
 # Supervertaler
 
-**AI translation, terminology and search &ndash; inside Trados Studio, and across the rest of Windows**
+**AI translation, terminology and search &ndash; inside Trados Studio and memoQ, and across the rest of Windows**
 
 Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator.
 
@@ -25,6 +25,16 @@ It complements your termbases and translation memories rather than replacing the
 Ships with the plugin. It connects Claude Desktop, and any other MCP client, to the Trados Studio session you have open &ndash; so an AI assistant can read your active project, search your TMs and termbases, run QA checks, and write segments back.
 
 - [Documentation](https://docs.supervertaler.com/trados/mcp-server/)
+
+### Supervertaler for memoQ
+
+A memoQ plugin: an LLM machine-translation engine that learns from the segments you confirm, plus a terminology provider that puts your own glossary into memoQ&rsquo;s Translation results *and* into the AI&rsquo;s prompt as required or forbidden terminology.
+
+Confirm a term once and the rest of the document follows it &ndash; no configuration, no retraining, just your own approved choices fed forward. Bring your own API key: Anthropic, OpenAI or Google, and your source text goes straight to the provider you chose.
+
+**In early development.** It loads, translates and learns, but there is no release yet.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-for-memoQ)
 
 ### Supervertaler Sidekick
 

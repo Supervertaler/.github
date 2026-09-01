@@ -28,13 +28,15 @@ Ships with the plugin. It connects Claude Desktop, and any other MCP client, to 
 
 ### Supervertaler for memoQ
 
-A memoQ plugin: an LLM machine-translation engine that learns from the segments you confirm, plus a terminology provider that puts your own glossary into memoQ&rsquo;s Translation results *and* into the AI&rsquo;s prompt as required or forbidden terminology.
+A memoQ plugin: an LLM machine-translation engine that learns from the segments you confirm, a terminology provider that puts your own glossary into memoQ&rsquo;s Translation results *and* into the AI&rsquo;s prompt as preferred or forbidden terminology, and an MCP bridge so Claude Desktop can translate your live memoQ project.
 
-Confirm a term once and the rest of the document follows it &ndash; no configuration, no retraining, just your own approved choices fed forward. Bring your own API key: Anthropic, OpenAI or Google, and your source text goes straight to the provider you chose.
+Confirm a term once and the rest of the document follows it &ndash; no configuration, no retraining, just your own approved choices fed forward. Bring your own API key (Anthropic, OpenAI or Google) &ndash; or none at all: with Claude Desktop connected, Claude reads the document, stages translations, and they flow into the grid when you press Pre-translate, billed to your Claude subscription. Prompts come from the same library the Trados plugin uses.
 
-**In early development.** It loads, translates and learns, but there is no release yet.
+memoQ gives a plugin no window and no editor access, so this is a different shape of tool from the Trados plugin: everything happens through memoQ&rsquo;s own MT engine and terminology pane, and Claude&rsquo;s work reaches your document only through your own hands. The docs say plainly which Trados capabilities memoQ can and cannot have.
 
-- [Repository](https://github.com/Supervertaler/Supervertaler-for-memoQ)
+**Working, pre-release.** Translates, batches, learns, serves terminology and connects to Claude Desktop; distributed as unsigned DLLs until a signed build and installer land.
+
+- [Repository](https://github.com/Supervertaler/Supervertaler-for-memoQ) &middot; [Documentation](https://docs.supervertaler.com/memoq/) &middot; [MCP Server for memoQ](https://docs.supervertaler.com/memoq/mcp-server/)
 
 ### Supervertaler Sidekick
 

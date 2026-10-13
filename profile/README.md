@@ -67,7 +67,7 @@ A free, open-source standalone CAT tool: editor, AI translation, terminology and
 
 **In active development again.** After a quiet spell while the Trados and memoQ plugins took shape, Workbench is getting regular releases again, with new features as well as fixes. It runs on Windows, macOS and Linux.
 
-Its system-wide tools &ndash; the clipboard manager and QuickTrans &ndash; live on in [Supervertaler Sidekick](https://github.com/Supervertaler/Supervertaler-Sidekick).
+[Supervertaler Sidekick](https://github.com/Supervertaler/Supervertaler-Sidekick), which works outside any CAT tool, has a clipboard manager of its own.
 
 - [Repository](https://github.com/Supervertaler/Supervertaler-Workbench) &middot; [Documentation](https://docs.supervertaler.com/workbench/) &middot; [PyPI](https://pypi.org/project/Supervertaler/)
 

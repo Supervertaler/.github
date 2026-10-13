@@ -4,8 +4,6 @@
 
 Supervertaler is professional translation software built by [Michael Beijer](https://beijer.uk/), a Dutch-English patent and technical translator.
 
-<img width="1600" height="1200" alt="1 - Supervertaler for Trados and memoQ" src="https://github.com/user-attachments/assets/3a4b9c14-8861-4043-862e-25db4172ed88" />
-
 ### Supervertaler for Trados
 
 A Trados Studio plugin (Studio 2024 and 2026) that brings TermLens inline terminology, an AI Assistant, Batch Translate and AI Proofreader, SuperSearch cross-file search and replace, SuperMemory, and an MCP server for Claude Desktop directly into the Trados editor. MultiTerm `.sdltb` support included.

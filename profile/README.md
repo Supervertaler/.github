@@ -58,7 +58,7 @@ Published at [docs.supervertaler.com](https://docs.supervertaler.com/), and mach
 
 ### Community
 
-- [GitHub Discussions](https://github.com/orgs/Supervertaler/discussions) &ndash; the main community hub for questions, ideas, and discussion
+- [r/Supervertaler on Reddit](https://www.reddit.com/r/Supervertaler/) &ndash; the community for questions, ideas, and discussion
 - Bug reports &amp; feature requests &ndash; in each product&rsquo;s repository: [Trados](https://github.com/Supervertaler/Supervertaler-for-Trados/issues) &middot; [memoQ](https://github.com/Supervertaler/Supervertaler-for-memoQ/issues) &middot; [Workbench](https://github.com/Supervertaler/Supervertaler-Workbench/issues)
 
 ### Supervertaler Workbench
